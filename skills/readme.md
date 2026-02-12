@@ -8,7 +8,7 @@ GitHub Copilot CLI 用のカスタムスキル定義です。英語版と日本�
 
 These skills are based on [HumanLayer's](https://github.com/humanlayer/humanlayer) open-source Copilot skill templates. HumanLayer provides a collection of well-designed, production-ready skill definitions for GitHub Copilot CLI.
 
-これらのスキルは [HumanLayer](https://github.com/humanlayer/humanlayer) のオープンソース Copilot スキルテンプレートに基づいています。HumanLayer は GitHub Copilot CLI 向けの設計された実用的なスキル定義のコレクションを提供しています。
+これらのスキルは [HumanLayer](https://github.com/humanlayer/humanlayer) のオープンソーススキルテンプレートに基づいています。HumanLayer は GitHub Copilot CLIなどのエージェント向けの設計された実用的なスキル定義のコレクションを提供しています。
 
 ---
 
