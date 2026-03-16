@@ -83,7 +83,7 @@ Run these commands to collect metadata:
 ```bash
 git rev-parse --short HEAD 2>/dev/null || echo "not-a-git-repo"
 git branch --show-current 2>/dev/null || echo "unknown"
-basename "$(git rev-parse --show-toplevel 2>/dev/null)" || basename "$PWD"
+(git rev-parse --show-toplevel 2>/dev/null || echo "$PWD") | xargs basename
 date -u +"%Y-%m-%dT%H:%M:%SZ"
 ```
 
